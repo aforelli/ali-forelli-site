@@ -45,8 +45,8 @@
 						<div class="inner">
 							<h2>Ali Forelli</h2>
 							<p>Student<br />
-							Athlete<br />
-							Engineer <a href="http://html5up.net">HTML5 UP</a>.</p>
+							Crafter<br />
+							Engineer</p>
 							<ul class="actions">
 								<li><a href="Resume.pdf" class="button special">Resume</a></li>
 							</ul>
